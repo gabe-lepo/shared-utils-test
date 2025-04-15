@@ -13,11 +13,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/",
-  },
   "bugs": {
     "url": "https://github.com/gabe-lepo/shared-utils-test/issues"
   },
-  "homepage": "https://github.com/gabe-lepo/shared-utils-test#readme"
+  "homepage": "https://github.com/gabe-lepo/shared-utils-test#readme",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
